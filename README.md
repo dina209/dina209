@@ -1,16 +1,15 @@
-### Hi there 👋
+#### Hi there 👋
 
-<!--
-**dina209/dina209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*My name is Dina Chotanova*
 
-Here are some ideas to get you started:
+#### About me:
+I have excellent background in International Business from one of the top UK universities with some experience in finace, recently retrained through YandexPraktikum as Data Analyst 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Databases:
+PostgreSQL
+
+#### Data Analysis:
+Python, Pandas, Numpy, Matplotlib, SciPy, Seaborn, Plotly
+
+#### Visualization:
+Tableau
