@@ -3,7 +3,7 @@
 *My name is Dina Chotanova*
 
 #### About me:
-I have excellent background in International Business from one of the top UK universities with some experience in finaceece. Recently retrained through YandexPraktikum as Data Analyst 
+I have excellent background in International Business from one of the top UK universities with some experience in finance. Recently retrained through YandexPraktikum as Data Analyst 
 
 #### Databases:
 PostgreSQL
